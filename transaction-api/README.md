@@ -72,11 +72,6 @@ Windows Users:
 ```
 run.bat
 ```
-Linux/Mac Users:
-```
-chmod +x run.sh
-./run.sh
-```
 ### Manual Setup (Alternative)
 1. **Compile the application:**
    ```
