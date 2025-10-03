@@ -33,7 +33,7 @@ Technical-Assessment-PT-Inovasi-Daya-Solusi/
 │   ├── lib/                               # Dependencies
 │   ├── viewData.json                      # Sample data
 │   └── run.bat                            # Windows execution script
-├── logical-test/                          # Test 2: Algorithm Analysis
+├── logical-programming-test/              # Test 2: Algorithm Analysis
 |   ├── logical-programming-test-code
 |   │   ├── src/                           # Solution implementation
 |   │   └── run.bat                        # Windows execution script
