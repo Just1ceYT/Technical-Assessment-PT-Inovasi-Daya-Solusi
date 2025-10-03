@@ -35,10 +35,9 @@ transaction-api/
 │   ├── JsonDataLoader.java    # JSON file parser
 │   └── HtmlResponse.java      # HTML table generator
 ├── lib/
-│   └── mysql-connector-java-8.0.33.jar
+│   └── mysql-connector-j-8.0.33.jar
 ├── viewData.json   # Sample data file
 ├── run.bat         # Windows execution script
-├── run.sh          # Linux/Mac execution script
 └── README.md
 ```
 
