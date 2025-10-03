@@ -1,7 +1,7 @@
 # PT Inovasi Daya Solusi - Back End Developer Intern Technical Assessment
-Welcome to my technical assessment submission for the Back End Developer Intern position at PT Inovasi Daya Solusi. This repository contains two distinct projects that demonstrate different aspects of backend development skills.
+Welcome to my technical assessment submission for the Back End Developer Intern position at PT Inovasi Daya Solusi. This repository contains two distinct tests that demonstrate different aspects of backend development skills.
 
-## 🎯 Project Overview
+## 🎯 Test Overview
 This repository showcases my capabilities in both **practical API development** and **logical problem-solving** - two essential skills for a backend developer. The assessment consists of two separate technical tasks:
 
 ## 📊 Test 1: Transaction API Server
@@ -12,7 +12,7 @@ A fully-functional RESTful API server built with Java that demonstrates:
 - **Object-Oriented Design**: Clean architecture with proper separation of concerns
 - **Data Persistence**: Automatic data seeding from JSON files
 
-## 🧠 Project 2: Logical Programming Test
+## 🧠 Test 2: Logical Programming Test
 A complex algorithm analysis that demonstrates:
 - **Analytical Thinking**: Deep understanding of iterative processes and variable interactions
 - **Problem-Solving**: Systematic approach to tracking variable changes and conditions
@@ -20,7 +20,7 @@ A complex algorithm analysis that demonstrates:
 - **Code Translation**: Converting pseudocode to functional Java implementation
 
 ## 🚀 Quick Navigation
-| Project | Description | Technologies | Key Features |
+| Test | Description | Technologies | Key Features |
 | ------------- | ------------- | ------------- | ------------- |
 | [Transaction API](https://github.com/Just1ceYT/Technical-Assessment-PT-Inovasi-Daya-Solusi/tree/main/transaction-api)  | RESTful API server with database integration  | Java, MySQL, HTTP, JSON | Multi-threaded server, automatic data seeding, HTML & JSON responses |
 | [Logical Test](https://github.com/Just1ceYT/Technical-Assessment-PT-Inovasi-Daya-Solusi/tree/main/logical-programming-test) | Algorithm analysis and logical programming | Java, Algorithm Analysis | Variable tracking, change detection, comprehensive result analysis |
@@ -58,7 +58,7 @@ Technical-Assessment-PT-Inovasi-Daya-Solusi/
 - **Code Quality**: Clean, maintainable, and well-documented code
 - **Cross-Platform Support**: Windows and Linux compatibility
 
-## 📊 Project Details
+## 📊 Test Details
 ### Transaction API Server Features
 - ✅ Multi-threaded HTTP server (port 8080)
 - ✅ Automatic MySQL database initialization
